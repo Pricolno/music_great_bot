@@ -6,6 +6,7 @@ TOKEN = '1316969753:AAF8MZa4wzeGZdLwEU1tBAle73yIDX-ZTqQ'
 # https://t.me/darkpreediscussion группа для обсуждений
 
 # приветики пистолетики
+# x2 приветики пистолетики
 
 
 # https://ruq.hotmo.org/search?q=GONE.Fludd
